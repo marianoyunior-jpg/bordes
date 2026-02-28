@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    height: 80px;
+    background-color: gold;
+    margin-top: 5px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+}
+.cuadro{
+    width: 635px;
+    height: 300px;
+    background-color: lightpink;
+    margin-bottom: 10px;
+    
+}
+.izquierda{
+    width: 870px;
+    height: 300px;
+    background-color: bisque;
+    position: absolute;
+    top: 95px;
+    left: 645px;
+
+}
+.derecha{
+    position: absolute;
+    top: 110px;
+    right: 20px;
+    width: 55%;
+    height: 265px;
+    border: 10px;
+    background-color: aquamarine;
+}
+
+.abajo{
+    position:relative;
+    top: 295px;
+    width: 182%;
+    height: 200px;
+    right: 670px;
+    background-color: brown;
+}
+footer{
+    background-color: gold;
+    margin-top:220px;
+    height: 130px;
+    margin-bottom:30px;
+    margin-right: 5px;
+}
+
